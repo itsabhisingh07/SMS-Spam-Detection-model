@@ -32,8 +32,8 @@ SPAM_DETECTION/
 └── README.md                  # Project documentation
 ```
 1.  **GIT Clone
-    ```git clone [https://github.com/itsabhisingh07/Spam-SMS-Detector.git](https://github.com/itsabhisingh07/Spam-SMS-Detector.git)
-   cd Spam-SMS-Detector
+    ``` git clone [https://github.com/itsabhisingh07/Spam-SMS-Detector.git](https://github.com/itsabhisingh07/Spam-SMS-Detector.git)
+    cd Spam-SMS-Detector
     ```
 
 2.  **Install dependencies**
