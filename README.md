@@ -9,8 +9,8 @@ A Machine Learning web application built with **Flask** and **Python** that pred
 - **Data Cleaning:** Implements text preprocessing (stemming, stopword removal) for better accuracy.
 
 ##Demo
-![Result Page](spam.png)
-![Result Page](not_spam.png)
+ ![Result Page](spam.png)
+ ![Result Page](not_spam.png)
 
 ##  Project Structure
 ```text
