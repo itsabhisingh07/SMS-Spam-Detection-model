@@ -8,9 +8,8 @@ A Machine Learning web application built with **Flask** and **Python** that pred
 - **Machine Learning:** Uses TF-IDF vectorization and Naive Bayes classifier.
 - **Data Cleaning:** Implements text preprocessing (stemming, stopword removal) for better accuracy.
 
-##Demo
+##  Demo
   ![Result Page](spam.png)
- 
   ![Result Page](not_spam.png)
 
 ##  Project Structure
