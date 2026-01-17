@@ -30,8 +30,22 @@ SPAM_DETECTION/
 ├── requirements.txt           # List of dependencies
 └── README.md                  # Project documentation
 ```
-##GIT Clone
-git clone [https://github.com/itsabhisingh07/Spam-SMS-Detector.git](https://github.com/itsabhisingh07/Spam-SMS-Detector.git)
-cd Spam-SMS-Detector
+1.  **GIT Clone
+    ```git clone [https://github.com/itsabhisingh07/Spam-SMS-Detector.git](https://github.com/itsabhisingh07/Spam-SMS-Detector.git)
+   cd Spam-SMS-Detector
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3.  **Run the application**
+    ```bash
+    python app.py
+    ```
+
+4.  **Open browser**
+    Go to `http://127.0.0.1:5000/` to use.
 
 
