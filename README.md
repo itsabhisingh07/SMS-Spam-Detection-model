@@ -8,6 +8,9 @@ A Machine Learning web application built with **Flask** and **Python** that pred
 - **Machine Learning:** Uses TF-IDF vectorization and Naive Bayes classifier.
 - **Data Cleaning:** Implements text preprocessing (stemming, stopword removal) for better accuracy.
 
+##Demo
+
+
 ##  Project Structure
 ```text
 SPAM_DETECTION/
@@ -26,4 +29,9 @@ SPAM_DETECTION/
 ├── vectorizer.pkl             # TF-IDF Vectorizer
 ├── requirements.txt           # List of dependencies
 └── README.md                  # Project documentation
+```
+##GIT Clone
+git clone [https://github.com/itsabhisingh07/Spam-SMS-Detector.git](https://github.com/itsabhisingh07/Spam-SMS-Detector.git)
+cd Spam-SMS-Detector
+
 
